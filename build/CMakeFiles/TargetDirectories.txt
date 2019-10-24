@@ -1,0 +1,8 @@
+/home/ubuntu/demo/goods/build/CMakeFiles/install/strip.dir
+/home/ubuntu/demo/goods/build/CMakeFiles/install/local.dir
+/home/ubuntu/demo/goods/build/CMakeFiles/MVLS.dir
+/home/ubuntu/demo/goods/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/demo/goods/build/CMakeFiles/human.dir
+/home/ubuntu/demo/goods/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/demo/goods/build/CMakeFiles/list_install_components.dir
+/home/ubuntu/demo/goods/build/CMakeFiles/install.dir

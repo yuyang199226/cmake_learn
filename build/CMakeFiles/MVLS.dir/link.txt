@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libMVLS.so.1 -o libMVLS.so.1 CMakeFiles/MVLS.dir/src/max.cpp.o CMakeFiles/MVLS.dir/src/fileHandler.cpp.o CMakeFiles/MVLS.dir/add.cpp.o /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so 

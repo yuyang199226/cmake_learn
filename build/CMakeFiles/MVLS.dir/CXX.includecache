@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/fileHandler.h
+iostream
+-
+boost/filesystem.hpp
+-
+
+../include/max.h
+
+/home/ubuntu/demo/goods/add.cpp
+
+/home/ubuntu/demo/goods/src/fileHandler.cpp
+fileHandler.h
+/home/ubuntu/demo/goods/src/fileHandler.h
+
+/home/ubuntu/demo/goods/src/max.cpp
+max.h
+/home/ubuntu/demo/goods/src/max.h
+
