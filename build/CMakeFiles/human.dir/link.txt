@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/human.dir/human.cc.o  -o human -Wl,-rpath,/home/ubuntu/demo/goods/build libMVLS.so.1 /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so 
